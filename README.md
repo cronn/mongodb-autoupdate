@@ -1,5 +1,5 @@
 # mongodb-autoupdate
-A demo project for demonstrating automatic update scripts for MongoDB using Spring Boot
+A demo project for demonstrating a database migration management mechanism for MongoDB using Spring Boot.
 
 <b>Short summary:</b>
 
